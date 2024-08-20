@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/482b179c-8b21-4d8e-bf6e-c296652fa21e
 # Sales and Expenses Analytical Dashboard
 
 https://github.com/user-attachments/assets/77e88514-fcd2-4056-a621-0fc9b0040667
